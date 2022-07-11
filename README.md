@@ -16,17 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-## Hello 👋
-
 My name is **Gourav Sood**, *Certified Technical Architect (CTA)* working @ [Ingenuity Partners](https://www.linkedin.com/company/ingenuit-partners-pty-ltd/). In addition to my passion for **[Salesforce](https://www.salesforce.com/)**, I enjoy working with latest Web & Mobile technologies using latest client side frameworks (ReactJS, AngularJS, React Native). Prior to joining **[Salesforce](https://www.salesforce.com/)**, I was a **[Mulesoft](https://www.mulesoft.com/)** Integration Architect, connecting the world using Mule runtimes & CloudHub. 😄
 
 I have been working in the IT Industry since 2006 and have services & consulting experience, working with Enterprise Organisations in Government, Telecom, Finance.
 
 📢 📢 🎖️ Sharing a proud moment, that in May 2020, I achieved the biggest milestone of my career and that is **[Salesforce Certified Technical Architect (CTA)](https://www.linkedin.com/feed/update/urn:li:activity:6669458750488883200/)** and become **CTA #312**  🎷 🎷
 
-[Gourav Sood on LinkedIn: #CTAPass #CTAPass #JourneyToCTA | 308 comments](https://www.linkedin.com/feed/update/urn:li:activity:6669458750488883200/)
+[Gourav Sood on LinkedIn: #CTAPass #CTAPass #JourneyToCTA ](https://www.linkedin.com/feed/update/urn:li:activity:6669458750488883200/)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f947962c-f931-4cb9-a231-a631676cdcda/Untitled.png)
+![image](https://user-images.githubusercontent.com/4436378/178204643-b293f71a-f48b-4440-be2c-79c2c6731366.png)
+
 
 ## **What I Know**
 
