@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is **Gourav Sood**, *Certified Technical Architect (CTA)* Architect Leader & Director @ [Ingenuity Partners](https://www.linkedin.com/company/ingenuit-partners-pty-ltd/). In addition to my passion for **[Salesforce](https://www.salesforce.com/)**, I enjoy working with latest Web & Mobile technologies using latest client side frameworks (ReactJS, AngularJS, React Native). Prior to joining **[Salesforce](https://www.salesforce.com/)**, I was a **[Mulesoft](https://www.mulesoft.com/)** Integration Architect, connecting the world using Mule runtimes & CloudHub. 😄
+My name is **Gourav Sood**, *Certified Technical Architect (CTA)*, Architect Leader & Director @ [Ingenuity Partners](https://www.linkedin.com/company/ingenuit-partners-pty-ltd/). In addition to my passion for **[Salesforce](https://www.salesforce.com/)**, I enjoy working with latest Web & Mobile technologies using latest client side frameworks (ReactJS, AngularJS, React Native). Prior to joining **[Salesforce](https://www.salesforce.com/)**, I was a **[Mulesoft](https://www.mulesoft.com/)** Integration Architect, connecting the world using Mule runtimes & CloudHub. 😄
 
 I have been working in the IT Industry since 2006 and have services & consulting experience, working with Enterprise Organisations in Government, Telecom, Finance.
 
